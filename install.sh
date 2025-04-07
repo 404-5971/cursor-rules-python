@@ -1,5 +1,5 @@
 #!/bin/bash
 
-mv .cursor ./
+mv cursor-rules-python/.cursor ./
 
 rm -rf cursor-rules-python
